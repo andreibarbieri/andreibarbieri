@@ -2,7 +2,7 @@
 # 👨🏻‍💻 Andrei barbieri
 **`Futuro FullStack`**
 
-Me chamo Andrei barbieri, tenho 19 anos e sou natural do Rio grande do sul. Conclui o ensino medio na escola professor dielh, Atualmente estou fazendo o curso de fullstack na B7web, Sou apaixonado por Tecnologia. 
+Me chamo Andrei barbieri, tenho 19 anos e sou natural do Rio grande do sul. Conclui o ensino medio na escola professor dielh, Atualmente estou fazendo faculdade de analise e desenvolvimento de sistemas e também o curso de fullstack na B7web, Sou apaixonado por Tecnologia. 
 
 
    ---
